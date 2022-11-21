@@ -380,3 +380,47 @@
 - 高彦颐《Cinderella’s Sisters》
   - 缠足妇女的主体性与能动性
 - 缠足与整容
+
+---
+
+*2022-11-21*
+
+## 男性研究
+
+> As a woman, I am a consumer of masculinities, but I am not more so than men are; and, like men, I as a woman am also a producer of masculinities and a performer of them.
+
+- Joan Scott：gender history 成为 women history 的代名词
+- Men’s studies/masculinity studies
+- 一个跨学科领域，把男人作为「具有社会性别的人」来研究
+- 受到女权主义的启发
+- 至今还没有学科化，基本在社会性别研究和妇女学的学科框架中发展
+- 案例
+  - 纪录片《面具之内》
+    - *Be a man*
+  - 《铁约翰》
+  - 《The Promise Keeper》
+  - 《拯救男孩》、「少年娘则国娘」、「娘炮」
+
+### 主要分析范畴
+
+- 男人身份（manhood）
+  - 与成年男性生理特征联系
+- 男性认同（male identity）
+- 男性气质（manliness）
+  - 作为一个男人应具备的良好特点（褒义词，维多利亚时代白人男性）
+  - 在精神和举止上独立
+  - 强有力、勇敢、心胸宽广等
+- 男性特质（masculinity）
+  - 19 世纪晚期开始挑战 manliness 的地位
+    - 劳工、黑人
+  - 男性性别角色（the masculine gender role），即一个特定群体中男人普遍具有的行为、态度和状况
+  - 男性特质的刻板印象（the stereotype of masculinity），即人们认为男性是什么
+  - 社会性别理想型（the gender ideal），即人们认为男性应该怎么样
+
+### 男性特质
+
+- 支配性、从属性、共谋性、边缘性
+- 多元性、霸权性、集体性、主动构建性、层次性、动态性
+- 霸权性男性特质
+  - 代表：政治家、影星、运动员
+  - 使得女权主义者避免把男人看作没有分别的敌人
