@@ -385,7 +385,7 @@
 
 *2022-11-21*
 
-## 男性研究
+## 男性研究（1）
 
 > As a woman, I am a consumer of masculinities, but I am not more so than men are; and, like men, I as a woman am also a producer of masculinities and a performer of them.
 
@@ -424,3 +424,30 @@
 - 霸权性男性特质
   - 代表：政治家、影星、运动员
   - 使得女权主义者避免把男人看作没有分别的敌人
+
+---
+
+*2022-11-28*
+
+## 男性研究（2）
+
+### 讨论：中国社会的霸权性男性特质
+
+- 成家立业，异性恋，妻子美貌
+- 中年，体形高大、强壮，皮肤黑，啤酒肚
+- 社会地位，编制，领导
+- 事业有成，有钱，有车有房
+- 喜欢暴论历史政治
+- 酒桌上吹牛、敬酒
+
+### 男性的解放
+
+- 旧的社会性别文化是男人和女人共同的敌人
+
+### 为什么要研究「男人的历史」
+
+- It is men that do not have *a gender history*!
+- 男性特质是在关系当中建构起来的
+- 它的构建与女性特质的建构相关
+- 超越了文化再现的问题（政治、社会经济）
+- （男）同性恋的历史
