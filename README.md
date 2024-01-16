@@ -4,3 +4,4 @@
 - [色度学](colorimetry.md)
 - [现代汉语（上）](modern-chinese-i.md)
 - [现代汉语（下）](modern-chinese-ii.md)
+- [函数式编程设计导引](functional-programming.md)
